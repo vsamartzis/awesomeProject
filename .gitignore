@@ -2,3 +2,4 @@ awesomeProject
 .env
 .idea/
 *.iml
+vendor/
