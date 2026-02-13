@@ -11,3 +11,5 @@
 
 awesomeProject
 .env
+.idea/
+*.iml
